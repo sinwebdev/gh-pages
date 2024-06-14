@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Woodcroft Wildspace</title>
+    <link href="https://sinwebdev.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://sinwebdev.github.io/gh-pages" />
+    <updated>2024-06-11T18:47:06+01:00</updated>
+    <author>
+        <name>Woodcroft Wildspace</name>
+    </author>
+    <id>https://sinwebdev.github.io/gh-pages</id>
+
+    <entry>
+        <title>Second post</title>
+        <author>
+            <name>Woodcroft Wildspace</name>
+        </author>
+        <link href="https://sinwebdev.github.io/gh-pages/second-post.html"/>
+        <id>https://sinwebdev.github.io/gh-pages/second-post.html</id>
+
+        <updated>2024-06-11T18:47:06+01:00</updated>
+            <summary>
+                <![CDATA[
+                    How to Volunteer?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a role="button" class="panel-title collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-core="" href="http://test1.woodcroft.org.uk/#collapse1_4" aria-expanded="false" aria-controls="collapse1">
+<h6 class="panel-title-edit mbr-semibold mbr-fonts-style mb-0 display-5">How to Volunteer?</h6>
+<p> </p>
+</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Our Mission</title>
+        <author>
+            <name>Woodcroft Wildspace</name>
+        </author>
+        <link href="https://sinwebdev.github.io/gh-pages/our-mission.html"/>
+        <id>https://sinwebdev.github.io/gh-pages/our-mission.html</id>
+
+        <updated>2024-06-11T18:28:06+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Welcome to the Educational Wildspace of Enfield, a sanctuary where nature thrives and minds come alive! Located in Downes Court,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="row card-box align-left">
+<div class="item features-without-image col-12">
+<div class="item-wrapper">
+<p class="mbr-text mbr-fonts-style display-7">Welcome to the Educational Wildspace of Enfield, a sanctuary where nature thrives and minds come alive!</p>
+</div>
+</div>
+<div class="item features-without-image col-12">
+<div class="item-wrapper">
+<p class="mbr-text mbr-fonts-style display-7">Located in Downes Court, N21 3PT, our gates are open 7 days a week from 9am to 5.30pm, (4pm winter) inviting all wild souls to immerse in the wonders of the wild.</p>
+</div>
+</div>
+<div class="item features-without-image col-12">
+<div class="item-wrapper">
+<p class="mbr-text mbr-fonts-style display-7">Join us in supporting school visits, engaging with Cubs, Beavers, and Brownies, and championing the Duke of Edinburgh’s Award Scheme through thrilling wildspace projects led by our Woodcroft volunteers.</p>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+</feed>
