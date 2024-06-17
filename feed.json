@@ -10,33 +10,5 @@
         "name": "Woodcroft Wildspace"
     },
     "items": [
-        {
-            "id": "https://sinwebdev.github.io/gh-pages/second-post.html",
-            "url": "https://sinwebdev.github.io/gh-pages/second-post.html",
-            "title": "Second post",
-            "summary": "How to Volunteer?",
-            "content_html": "<p><a role=\"button\" class=\"panel-title collapsed\" data-toggle=\"collapse\" data-bs-toggle=\"collapse\" data-core=\"\" href=\"http://test1.woodcroft.org.uk/#collapse1_4\" aria-expanded=\"false\" aria-controls=\"collapse1\">\n<h6 class=\"panel-title-edit mbr-semibold mbr-fonts-style mb-0 display-5\">How to Volunteer?</h6>\n<p> </p>\n</a></p>",
-            "author": {
-                "name": "Woodcroft Wildspace"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-06-11T18:47:06+01:00",
-            "date_modified": "2024-06-11T18:47:06+01:00"
-        },
-        {
-            "id": "https://sinwebdev.github.io/gh-pages/our-mission.html",
-            "url": "https://sinwebdev.github.io/gh-pages/our-mission.html",
-            "title": "Our Mission",
-            "summary": "Welcome to the Educational Wildspace of Enfield, a sanctuary where nature thrives and minds come alive! Located in Downes Court,&hellip;",
-            "content_html": "<div class=\"row card-box align-left\">\n<div class=\"item features-without-image col-12\">\n<div class=\"item-wrapper\">\n<p class=\"mbr-text mbr-fonts-style display-7\">Welcome to the Educational Wildspace of Enfield, a sanctuary where nature thrives and minds come alive!</p>\n</div>\n</div>\n<div class=\"item features-without-image col-12\">\n<div class=\"item-wrapper\">\n<p class=\"mbr-text mbr-fonts-style display-7\">Located in Downes Court, N21 3PT, our gates are open 7 days a week from 9am to 5.30pm, (4pm winter) inviting all wild souls to immerse in the wonders of the wild.</p>\n</div>\n</div>\n<div class=\"item features-without-image col-12\">\n<div class=\"item-wrapper\">\n<p class=\"mbr-text mbr-fonts-style display-7\">Join us in supporting school visits, engaging with Cubs, Beavers, and Brownies, and championing the Duke of Edinburgh’s Award Scheme through thrilling wildspace projects led by our Woodcroft volunteers.</p>\n</div>\n</div>\n</div>",
-            "author": {
-                "name": "Woodcroft Wildspace"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-06-11T18:28:06+01:00",
-            "date_modified": "2024-06-11T18:28:06+01:00"
-        }
     ]
 }
