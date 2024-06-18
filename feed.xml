@@ -3,10 +3,32 @@
     <title>Woodcroft Wildspace</title>
     <link href="https://sinwebdev.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://sinwebdev.github.io/gh-pages" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2024-06-18T18:21:16+01:00</updated>
     <author>
         <name>Woodcroft Wildspace Auther</name>
     </author>
     <id>https://sinwebdev.github.io/gh-pages</id>
 
+    <entry>
+        <title>WILDSTOCK 2024 SUNDAY MAY 26th 1-5 pm</title>
+        <author>
+            <name>Woodcroft Wildspace Auther</name>
+        </author>
+        <link href="https://sinwebdev.github.io/gh-pages/wildstock-2024-sunday-may-26th-1-5-pm.html"/>
+        <id>https://sinwebdev.github.io/gh-pages/wildstock-2024-sunday-may-26th-1-5-pm.html</id>
+            <category term="News &amp; Events"/>
+
+        <updated>2024-05-01T18:10:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Wildstock is back! Yes, Wildstock '24 is gearing up for another fun-packed musical extravaganza. Bring a picnic and chill in the beautiful meadow in Woodcroft Wildspace. Enjoy the craft beers and wines courtesy of The Little Green Dragon while listening to a selection of local&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://sinwebdev.github.io/gh-pages/media/posts/7/Wildstock26May24_hero.jpg" alt="WILDSTOCK 2024  SUNDAY MAY 26th 1-5 pm" width="1039" height="543" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-xs.jpg 300w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-sm.jpg 480w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-md.jpg 768w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-lg.jpg 1024w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-xl.jpg 1360w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-2xl.jpg 1600w"></figure>
+<p> <br>Wildstock is back!  Yes, Wildstock '24 is gearing up for another fun-packed musical extravaganza. Bring a picnic and chill in the beautiful meadow in Woodcroft Wildspace. Enjoy the craft beers and wines courtesy of The Little Green Dragon while listening to a selection of local musicians throughout the afternoon.<br>Tickets available from https://buytickets.at/enfieldchaserotaryclub/1201210<br><br>All funds raised go to local charities - Little Sparks Enfield, Cooking Champions, and Woodcroft Wildspace - all fantastic local causes.<br><br>Location - Woodcroft Wildspace N21 3PT</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
