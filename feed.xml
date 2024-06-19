@@ -3,12 +3,33 @@
     <title>Woodcroft Wildspace</title>
     <link href="https://sinwebdev.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://sinwebdev.github.io/gh-pages" />
-    <updated>2024-06-19T21:09:01+01:00</updated>
+    <updated>2024-06-20T00:28:25+01:00</updated>
     <author>
         <name>Woodcroft Wildspace Author Name</name>
     </author>
     <id>https://sinwebdev.github.io/gh-pages</id>
 
+    <entry>
+        <title>What is Lorem Ipsum?</title>
+        <author>
+            <name>Woodcroft Wildspace Author Name</name>
+        </author>
+        <link href="https://sinwebdev.github.io/gh-pages/what-is-lorem-ipsum.html"/>
+        <id>https://sinwebdev.github.io/gh-pages/what-is-lorem-ipsum.html</id>
+            <category term="News &amp; Events"/>
+
+        <updated>2024-06-20T00:28:25+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Donate</title>
         <author>
@@ -80,7 +101,7 @@
         </content>
     </entry>
     <entry>
-        <title>Wildlife on the site</title>
+        <title>Wildlife</title>
         <author>
             <name>Woodcroft Wildspace Author Name</name>
         </author>
