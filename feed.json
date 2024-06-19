@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://sinwebdev.github.io/gh-pages/donate.html",
+            "url": "https://sinwebdev.github.io/gh-pages/donate.html",
+            "title": "Donate",
+            "summary": "Please scan QR code below or click Donate to make a donation. All donations to Woodcroft Wildspace very much appreciated. SumUp does not pass on any personal details to us about your donation, only the code that it provides to you on completing the transaction.",
+            "content_html": "<p>Please scan QR code below or click <a href=\"https://pay.sumup.io/b2c/QI6KFX8T?utm_campaign=pdf&amp;utm_medium=print&amp;utm_source=qr\" target=\"_blank\" rel=\"noopener noreferrer\"> Donate</a> to make a donation.<br><br>All donations to Woodcroft Wildspace very much appreciated.</p>\n<p>SumUp does not pass on any personal details to us about your donation, only the code that it provides to you on completing the transaction.</p>\n<p>It would be helpful for us to be able to relate donations to donors, for example when making a booking, so if you could please email the code to <a href=\"mailto:enquiries@woodcroft.org.uk\"> enquiries@woodcroft.org.uk</a> with a short note about your kind donation that would be helpful.</p>\n<p>If you would like to remain anonymous that is of course fine, thank you for your donation.</p>\n<p>Either way, many thanks for your donation. We will put it to good use in maintaining the Wildspace.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sinwebdev.github.io/gh-pages/media/posts/8/Woodcroft-Donation-QRcode.jpg\" alt=\"WoodCroft Wildspace Donate QR Code\" width=\"786\" height=\"965\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-xs.jpg 300w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-sm.jpg 480w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-md.jpg 768w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-lg.jpg 1024w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-xl.jpg 1360w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Woodcroft Wildspace Author Name"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-19T10:07:47+01:00",
+            "date_modified": "2024-06-19T10:11:00+01:00"
+        },
+        {
             "id": "https://sinwebdev.github.io/gh-pages/trees.html",
             "url": "https://sinwebdev.github.io/gh-pages/trees.html",
             "title": "Trees",
