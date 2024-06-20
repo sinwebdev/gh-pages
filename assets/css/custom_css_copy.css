@@ -1,0 +1,131 @@
+/*
+ * Put your custom CSS code here
+ */
+
+/* navbar color change fixes */
+.navbar .navbar__menu > li.active-parent > a, .navbar .navbar__menu > li.active-parent > span, .navbar .navbar__menu > li.active > a, .navbar .navbar__menu > li.active > span {
+	border-radius: 4px;
+	/* background: rgba(255, 255, 255, 1); */
+    background: #f0efe9;
+	/* border: 2px solid #74c31d; */
+    color: #000000;
+}
+.navbar .navbar__menu li a:active, .navbar .navbar__menu li a:focus, .navbar .navbar__menu li a:hover,
+.navbar .navbar__menu li span[aria-haspopup=true]:active,
+.navbar .navbar__menu li span[aria-haspopup=true]:focus,
+.navbar .navbar__menu li span[aria-haspopup=true]:hover {
+  	/* color: var(--white);*/
+    color: #000000;
+    background: rgba(255, 255, 255, 1); 
+}
+
+/* navbar items fix */
+.navbar .navbar__menu li a, .navbar .navbar__menu li span[aria-haspopup="true"] {
+ 	color:#000000;   
+}
+/* navbar items fix */
+.navbar .navbar__menu li a:hover, .navbar .navbar__menu li span[aria-haspopup="true"]:hover {
+ 	color:#000000;   
+}
+/* navbar items font size */
+.navbar .navbar__menu li {
+ 	font-size:0.9rem;
+}
+/* navbar compact navbar button color */
+.navbar .navbar__toggle-inner, .navbar .navbar__toggle-inner::after, .navbar .navbar__toggle-inner::before {
+	background-color: #000;
+}
+/* navbar submenu symbol color */
+.navbar .has-submenu::after {
+  border-color: #000 transparent transparent transparent;
+}
+/* test to move navbar to center below logo
+.navbar {
+ 	margin: 0 auto;   
+} */
+
+
+/* footer changes dark footer */
+.footer {
+	background-color: #8c8a83;
+    color: #FFFFFF;
+}
+/* footer fixed the icon position in footer */
+.footer__copyright {
+  	border-top: 0px;
+    margin-top: 0rem;
+  	padding-top: 0rem;
+}
+
+/* footer fix social buttons colors in footer */
+.footer__follow > a svg {
+  fill: #FFF;
+}
+.footer__follow > a:hover svg {
+fill: #e6e4db;
+}
+/* footer fix social buttons position in desktop */
+@media (min-width: 56.25em) {
+.footer__follow {
+  margin: 0 auto;
+}
+}
+
+
+
+
+/* fix padding of content in mobile view */
+@media (max-width: 56.1875em) {
+  .content {
+    padding: 0.001rem 1.2142857143rem;
+  }
+}
+/* fix padding of content in desktop view */
+.main {
+    margin: 0.8571428571rem 0;
+    /*margin: 1.4571428571rem 0; */
+}
+
+@media (min-width: 56.25em) {
+  .main {
+      margin: 0.8571428571rem 0;
+    /*margin: 1.4571428571rem 0; */
+    /*margin: 2.4285714286rem 0;*/
+  }
+}
+
+
+/* fix for grey heading overlap problem */
+@media (min-width: 37.5em) {
+  .u-header {
+    /* margin: -1.4285714286rem 1.7rem 0; */
+	/*margin: 0 1.7rem 0;*/
+    /*margin: 0 0.7rem 0; */ 
+    margin: 0 0 0 0;  
+  }
+} 
+/* more fixes */
+.post__header {
+  margin-top: 0;
+  padding: 0 3.9142857143rem 0;
+}
+@media (max-width: 56.1875em) {
+    .post__header {
+      margin-top: 0;
+      padding: 0 1.9142857143rem 0;
+    }
+}
+
+.page__header {
+  /*margin-bottom: 1.4571428571rem;*/
+  margin:0 4rem 1.4571428571rem;
+}
+.c-card {
+  /*margin-bottom: 2.9142857143rem;*/
+  margin: 0 4rem 2.9142857143rem;
+}
+@media (max-width: 56.1875em) {
+  .c-card, .page__header {
+    margin: 0 0;
+  }
+}

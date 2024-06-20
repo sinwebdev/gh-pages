@@ -3,30 +3,83 @@
     <title>Woodcroft Wildspace</title>
     <link href="https://sinwebdev.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://sinwebdev.github.io/gh-pages" />
-    <updated>2024-06-20T00:28:25+01:00</updated>
+    <updated>2024-06-20T20:20:45+01:00</updated>
     <author>
         <name>Woodcroft Wildspace Author Name</name>
     </author>
     <id>https://sinwebdev.github.io/gh-pages</id>
 
     <entry>
-        <title>What is Lorem Ipsum?</title>
+        <title>Sponsors</title>
+        <author>
+            <name>Woodcroft Wildspace Author Name</name>
+        </author>
+        <link href="https://sinwebdev.github.io/gh-pages/sponsors.html"/>
+        <id>https://sinwebdev.github.io/gh-pages/sponsors.html</id>
+
+        <updated>2024-06-20T19:59:11+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Our grateful thanks for the following people who have given their support GENERAL SPONSORS . Enfield Council for their help and support and permission to use the ground. Enfield Parks Dept. for provision of wood chippings for the paths BUSINESS SPONSORS The following businesses have&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Our grateful thanks for the following people who have given their support<br>GENERAL SPONSORS .<br><a href="https://www.enfield.gov.uk/" target="_blank" rel="noopener noreferrer">Enfield Council</a> for their help and support and permission to use the ground.<br><a href="http://www.enfield.gov.uk/461/index461.htm" target="_blank" rel="noopener noreferrer">Enfield Parks Dept.</a> for provision of wood chippings for the paths<br> <br>BUSINESS SPONSORS<br>The following businesses have kindly donated prizes for our fund raising events or supplied goods and services free of charge, or sent teams of volunteers to work on the site.<br><a href="http://www.ricoh-europe.com/" target="_blank" rel="noopener noreferrer">RICOH</a></p>
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Example Featured post with a Featured Image</title>
+        <author>
+            <name>Woodcroft Wildspace Author Name</name>
+        </author>
+        <link href="https://sinwebdev.github.io/gh-pages/example-featured-post-with-a-featured-image.html"/>
+        <id>https://sinwebdev.github.io/gh-pages/example-featured-post-with-a-featured-image.html</id>
+        <media:content url="https://sinwebdev.github.io/gh-pages/media/posts/10/283315628_5173526306074914_627125330721654055_n.jpg" medium="image" />
+            <category term="News &amp; Events"/>
+
+        <updated>2024-06-20T19:49:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sinwebdev.github.io/gh-pages/media/posts/10/283315628_5173526306074914_627125330721654055_n.jpg" alt="" />
+                    Example Featured post with a Featured Image. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sinwebdev.github.io/gh-pages/media/posts/10/283315628_5173526306074914_627125330721654055_n.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="post__entry u-inner">
+<p><strong>Example Featured post with a Featured Image. Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+</div>
+<aside class="post__aside">
+<div class="post__share"> </div>
+</aside>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Example normal post with a Featured Image</title>
         <author>
             <name>Woodcroft Wildspace Author Name</name>
         </author>
         <link href="https://sinwebdev.github.io/gh-pages/what-is-lorem-ipsum.html"/>
         <id>https://sinwebdev.github.io/gh-pages/what-is-lorem-ipsum.html</id>
+        <media:content url="https://sinwebdev.github.io/gh-pages/media/posts/9/New-Signs.png" medium="image" />
             <category term="News &amp; Events"/>
 
         <updated>2024-06-20T00:28:25+01:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has&hellip;
+                        <img src="https://sinwebdev.github.io/gh-pages/media/posts/9/New-Signs.png" alt="" />
+                    Example of an Post with a Featured Image. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p><img src="https://sinwebdev.github.io/gh-pages/media/posts/9/New-Signs.png" class="type:primaryImage" alt="" /></p>
+                <p><strong>Example of an Post with a Featured Image. Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
             ]]>
         </content>
     </entry>
@@ -67,13 +120,12 @@
         <updated>2024-06-17T20:09:15+01:00</updated>
             <summary>
                 <![CDATA[
-                    Note: content copied over from the live site no editing to layout yet. Any links will go back to live site. CLICK ON THE NAME FOR INFORMATION ASH BIRCH (SELF-PLANTED) BLACKTHORN BUDDLEIA DOGWOOD (SELF-PLANTED) ELDER FLOWERING CRAB HAWTHORN HORSE CHESTNUT (SELF-PLANTED) HOLLY LABURNUM LEYLAND CYPRESS&hellip;
+                    Note: content copied from live site. ASH BIRCH (SELF-PLANTED) BLACKTHORN BUDDLEIA DOGWOOD (SELF-PLANTED) ELDER FLOWERING CRAB HAWTHORN HORSE CHESTNUT (SELF-PLANTED) HOLLY LABURNUM LEYLAND CYPRESS LIME - CAUCASIAN LIME - COMMON MONTEREY CYPRESS OAK - COMMON OAK - SESSILE POPLAR - HYBRID BLACK POPLAR - LOMBARDY&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Note: content copied over from the live site no editing to layout yet. Any links will go back to live site.</p>
-<p>CLICK ON THE NAME FOR INFORMATION</p>
+                <p>Note: content copied from live site. </p>
 <p><a href="https://www.woodcroft.org.uk/ash.html">ASH</a></p>
 <p><a href="https://www.woodcroft.org.uk/birch.html">BIRCH (SELF-PLANTED)</a></p>
 <p><a href="https://www.woodcroft.org.uk/blackthorn.html">BLACKTHORN</a></p>
@@ -112,12 +164,12 @@
         <updated>2024-06-17T20:05:59+01:00</updated>
             <summary>
                 <![CDATA[
-                    Note: table copied from live site, generally not a good idea to use big tables like this as they don't scale well. Any links will go back to live site. woodpecker - green AMPHIBIANS woodpecker - lesser spotted Smooth Newt wren Frog
+                    Note: Table copied from live site. Websites generally avoid big tables as they have accessibility and scaling problems. woodpecker - green AMPHIBIANS woodpecker - lesser spotted Smooth Newt wren Frog
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Note: table copied from live site, generally not a good idea to use big tables like this as they don't scale well. Any links will go back to live site.</p>
+                <p>Note: Table copied from live site. Websites generally avoid big tables as they have accessibility and scaling problems. </p>
 <table style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -263,7 +315,7 @@
         </content>
     </entry>
     <entry>
-        <title>WILDSTOCK 2024 SUNDAY MAY 26th 1-5 pm</title>
+        <title>Example Featured Post without a Featured Image</title>
         <author>
             <name>Woodcroft Wildspace Author Name</name>
         </author>
