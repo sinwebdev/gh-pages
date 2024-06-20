@@ -11,6 +11,35 @@
     },
     "items": [
         {
+            "id": "https://sinwebdev.github.io/gh-pages/schools.html",
+            "url": "https://sinwebdev.github.io/gh-pages/schools.html",
+            "title": "Schools",
+            "summary": "The Education Team would love to hear from schools and groups who would be interested in visiting Woodcroft Wildspace for an interesting and enjoyable educational experience. Contact the Woodcroft Education Team by email: education@woodcroft.org.uk or phone 0203 642 1543 and leave us a message. We&hellip;",
+            "content_html": "<p>The Education Team would love to hear from schools and groups who would be interested in visiting Woodcroft Wildspace for an interesting and enjoyable educational experience.<br>Contact the Woodcroft Education Team by email: education@woodcroft.org.uk<br>or phone 0203 642 1543 and leave us a message.</p>\n<p>We welcome bookings of primary school classes (maximum 30 children, broken down to three groups of 10) on Tuesday or Friday mornings. A session lasts about two hours or so (from about 9.45am til noon). We offer three or four activities depending on the season or as requested per visit. Activities include: pond dipping, searching for mini beasts, exploring plants and tree identification. Each activity is lead by an experienced volunteer guide and rotated to the three groups in turn. </p>\n<p>A risk assessment will be provided and please d<a href=\"https://www.woodcroft.org.uk/images/2021/Woodcroft%20Education%20Leaflet%202021%20(v3.1).pdf\">ownload the education leaflet below</a> to keep for reference. Please note that it is strongly recommended that any accessibility issues are discussed before booking so that we can arrange reasonable adjustments. We look forward to seeing you.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sinwebdev.github.io/gh-pages/media/posts/13/School-Visit-Guide1.png\" alt=\"School Guide\" width=\"691\" height=\"919\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://sinwebdev.github.io/gh-pages/media/posts/13/responsive/School-Visit-Guide1-xs.png 300w ,https://sinwebdev.github.io/gh-pages/media/posts/13/responsive/School-Visit-Guide1-sm.png 480w ,https://sinwebdev.github.io/gh-pages/media/posts/13/responsive/School-Visit-Guide1-md.png 768w ,https://sinwebdev.github.io/gh-pages/media/posts/13/responsive/School-Visit-Guide1-lg.png 1024w ,https://sinwebdev.github.io/gh-pages/media/posts/13/responsive/School-Visit-Guide1-xl.png 1360w ,https://sinwebdev.github.io/gh-pages/media/posts/13/responsive/School-Visit-Guide1-2xl.png 1600w\"></figure>\n<p> </p>",
+            "image": "https://sinwebdev.github.io/gh-pages/media/posts/13/schoolsandgroups_clip_image006.jpg",
+            "author": {
+                "name": "Woodcroft Wildspace Author Name"
+            },
+            "tags": [
+                   "Visit"
+            ],
+            "date_published": "2024-06-20T22:12:30+01:00",
+            "date_modified": "2024-06-20T22:14:43+01:00"
+        },
+        {
+            "id": "https://sinwebdev.github.io/gh-pages/site-plan.html",
+            "url": "https://sinwebdev.github.io/gh-pages/site-plan.html",
+            "title": "Site Plan",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sinwebdev.github.io/gh-pages/media/posts/12/siteplan1Gate-Sign-2019.png\" alt=\"Site Plan\" width=\"700\" height=\"879\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://sinwebdev.github.io/gh-pages/media/posts/12/responsive/siteplan1Gate-Sign-2019-xs.png 300w ,https://sinwebdev.github.io/gh-pages/media/posts/12/responsive/siteplan1Gate-Sign-2019-sm.png 480w ,https://sinwebdev.github.io/gh-pages/media/posts/12/responsive/siteplan1Gate-Sign-2019-md.png 768w ,https://sinwebdev.github.io/gh-pages/media/posts/12/responsive/siteplan1Gate-Sign-2019-lg.png 1024w ,https://sinwebdev.github.io/gh-pages/media/posts/12/responsive/siteplan1Gate-Sign-2019-xl.png 1360w ,https://sinwebdev.github.io/gh-pages/media/posts/12/responsive/siteplan1Gate-Sign-2019-2xl.png 1600w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sinwebdev.github.io/gh-pages/media/posts/12/siteplan2DownesCourt-GateSign-Image.png\" alt=\"Site Plan Details\" width=\"700\" height=\"732\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://sinwebdev.github.io/gh-pages/media/posts/12/responsive/siteplan2DownesCourt-GateSign-Image-xs.png 300w ,https://sinwebdev.github.io/gh-pages/media/posts/12/responsive/siteplan2DownesCourt-GateSign-Image-sm.png 480w ,https://sinwebdev.github.io/gh-pages/media/posts/12/responsive/siteplan2DownesCourt-GateSign-Image-md.png 768w ,https://sinwebdev.github.io/gh-pages/media/posts/12/responsive/siteplan2DownesCourt-GateSign-Image-lg.png 1024w ,https://sinwebdev.github.io/gh-pages/media/posts/12/responsive/siteplan2DownesCourt-GateSign-Image-xl.png 1360w ,https://sinwebdev.github.io/gh-pages/media/posts/12/responsive/siteplan2DownesCourt-GateSign-Image-2xl.png 1600w\"></figure>",
+            "author": {
+                "name": "Woodcroft Wildspace Author Name"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-20T21:55:17+01:00",
+            "date_modified": "2024-06-20T21:55:17+01:00"
+        },
+        {
             "id": "https://sinwebdev.github.io/gh-pages/sponsors.html",
             "url": "https://sinwebdev.github.io/gh-pages/sponsors.html",
             "title": "Sponsors",
@@ -46,7 +75,7 @@
             "title": "Example normal post with a Featured Image",
             "summary": "Example of an Post with a Featured Image. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it&hellip;",
             "content_html": "<p><strong>Example of an Post with a Featured Image. Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>",
-            "image": "https://sinwebdev.github.io/gh-pages/media/posts/9/New-Signs.png",
+            "image": "https://sinwebdev.github.io/gh-pages/media/posts/9/editCapture1.PNG",
             "author": {
                 "name": "Woodcroft Wildspace Author Name"
             },
@@ -54,7 +83,7 @@
                    "News &amp; Events"
             ],
             "date_published": "2024-06-20T00:28:25+01:00",
-            "date_modified": "2024-06-20T18:10:43+01:00"
+            "date_modified": "2024-06-20T22:32:42+01:00"
         },
         {
             "id": "https://sinwebdev.github.io/gh-pages/donate.html",
@@ -76,6 +105,7 @@
             "title": "Trees",
             "summary": "Note: content copied from live site. ASH BIRCH (SELF-PLANTED) BLACKTHORN BUDDLEIA DOGWOOD (SELF-PLANTED) ELDER FLOWERING CRAB HAWTHORN HORSE CHESTNUT (SELF-PLANTED) HOLLY LABURNUM LEYLAND CYPRESS LIME - CAUCASIAN LIME - COMMON MONTEREY CYPRESS OAK - COMMON OAK - SESSILE POPLAR - HYBRID BLACK POPLAR - LOMBARDY&hellip;",
             "content_html": "<p>Note: content copied from live site. </p>\n<p><a href=\"https://www.woodcroft.org.uk/ash.html\">ASH</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/birch.html\">BIRCH (SELF-PLANTED)</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/blackthorn.html\">BLACKTHORN</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/buddleia.html\">BUDDLEIA</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/dogwood.html\">DOGWOOD (SELF-PLANTED)</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/elder.html\">ELDER</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/crab.html\">FLOWERING CRAB </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/hawthorn.html\">HAWTHORN</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/horsechestnut.html\">HORSE CHESTNUT (SELF-PLANTED) </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/holly.html\">HOLLY </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/laburnum.html\">LABURNUM</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/leylandii.html\">LEYLAND CYPRESS</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/limecaucasian.html\">LIME - CAUCASIAN</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/lime.html\">LIME - COMMON</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/monterey.html\">MONTEREY CYPRESS</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/oak.html\">OAK - COMMON</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/oak2.html\">OAK - SESSILE</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/poplar.html\">POPLAR - HYBRID BLACK </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/lombardy.html\">POPLAR - LOMBARDY </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/plum.html\">PURPLE PLUM</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/sorbus.html\">ROWAN (SELF-PLANTED) </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/sycamore.html\">SYCAMORE </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/cherry.html\">WILD CHERRY</a></p>",
+            "image": "https://sinwebdev.github.io/gh-pages/media/posts/6/editCapture2.PNG",
             "author": {
                 "name": "Woodcroft Wildspace Author Name"
             },
@@ -83,7 +113,7 @@
                    "Plants &amp; Animals"
             ],
             "date_published": "2024-06-17T20:09:15+01:00",
-            "date_modified": "2024-06-20T01:02:13+01:00"
+            "date_modified": "2024-06-20T22:00:55+01:00"
         },
         {
             "id": "https://sinwebdev.github.io/gh-pages/wildlife-on-the-site.html",
@@ -98,7 +128,7 @@
                    "Plants &amp; Animals"
             ],
             "date_published": "2024-06-17T20:05:59+01:00",
-            "date_modified": "2024-06-20T20:20:45+01:00"
+            "date_modified": "2024-06-20T22:30:33+01:00"
         },
         {
             "id": "https://sinwebdev.github.io/gh-pages/wildstock-2024-sunday-may-26th-1-5-pm.html",

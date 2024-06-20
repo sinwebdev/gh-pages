@@ -1585,6 +1585,8 @@ textarea {
       -ms-flex-align: center;
           align-items: center;
   border-bottom: 1px solid var(--border-color-light);
+  /*border-top: 5px solid #b3010a;
+  border-bottom: 5px solid #71be1c;*/
   color: var(--gray-1);
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1593,7 +1595,8 @@ textarea {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  padding: 0.6071428571rem 0;
+  padding: 0.6071428571rem 0; 
+  /*padding: 0 0;*/
 }
 @media all and (max-width: 37.4375em) {
   .infobar {
