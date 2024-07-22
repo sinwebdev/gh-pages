@@ -3,12 +3,80 @@
     <title>Woodcroft Wildspace</title>
     <link href="https://sinwebdev.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://sinwebdev.github.io/gh-pages" />
-    <updated>2024-06-20T22:32:42+01:00</updated>
+    <updated>2024-07-17T15:03:08+01:00</updated>
     <author>
         <name>Woodcroft Wildspace Author Name</name>
     </author>
     <id>https://sinwebdev.github.io/gh-pages</id>
 
+    <entry>
+        <title>Petition Info</title>
+        <author>
+            <name>Woodcroft Wildspace Author Name</name>
+        </author>
+        <link href="https://sinwebdev.github.io/gh-pages/petition-info.html"/>
+        <id>https://sinwebdev.github.io/gh-pages/petition-info.html</id>
+            <category term="News &amp; Events"/>
+
+        <updated>2024-07-17T15:03:08+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Details here link
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Details here</p>
+<p>link</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Woodcroft 2025</title>
+        <author>
+            <name>Woodcroft Wildspace Author Name</name>
+        </author>
+        <link href="https://sinwebdev.github.io/gh-pages/woodcroft-2025.html"/>
+        <id>https://sinwebdev.github.io/gh-pages/woodcroft-2025.html</id>
+        <media:content url="https://sinwebdev.github.io/gh-pages/media/posts/15/Wildstock26May24_hero.jpg" medium="image" />
+            <category term="News &amp; Events"/>
+
+        <updated>2024-07-17T14:49:36+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sinwebdev.github.io/gh-pages/media/posts/15/Wildstock26May24_hero.jpg" alt="" />
+                    Woodcroft 2025 info here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sinwebdev.github.io/gh-pages/media/posts/15/Wildstock26May24_hero.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Woodcroft 2025 info here</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Forest</title>
+        <author>
+            <name>Woodcroft Wildspace Author Name</name>
+        </author>
+        <link href="https://sinwebdev.github.io/gh-pages/forest.html"/>
+        <id>https://sinwebdev.github.io/gh-pages/forest.html</id>
+            <category term="Plants &amp; Animals"/>
+
+        <updated>2024-07-17T14:35:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Some content here.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Some content here.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Schools</title>
         <author>
@@ -149,7 +217,9 @@
 <p>It would be helpful for us to be able to relate donations to donors, for example when making a booking, so if you could please email the code to <a href="mailto:enquiries@woodcroft.org.uk"> enquiries@woodcroft.org.uk</a> with a short note about your kind donation that would be helpful.</p>
 <p>If you would like to remain anonymous that is of course fine, thank you for your donation.</p>
 <p>Either way, many thanks for your donation. We will put it to good use in maintaining the Wildspace.</p>
-<figure class="post__image"><img loading="lazy"  src="https://sinwebdev.github.io/gh-pages/media/posts/8/Woodcroft-Donation-QRcode.jpg" alt="WoodCroft Wildspace Donate QR Code" width="786" height="965" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-xs.jpg 300w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-sm.jpg 480w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-md.jpg 768w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-lg.jpg 1024w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-xl.jpg 1360w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-2xl.jpg 1600w"></figure>
+<figure class="post__image" ><img loading="lazy" src="https://sinwebdev.github.io/gh-pages/media/posts/8/Woodcroft-Donation-QRcode.jpg" alt="WoodCroft Wildspace Donate QR Code" width="300" height="368" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-xs.jpg 300w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-sm.jpg 480w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-md.jpg 768w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-lg.jpg 1024w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-xl.jpg 1360w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-2xl.jpg 1600w">
+<figcaption >Caption</figcaption>
+</figure>
             ]]>
         </content>
     </entry>
@@ -197,190 +267,6 @@
 <p><a href="https://www.woodcroft.org.uk/sorbus.html">ROWAN (SELF-PLANTED) </a></p>
 <p><a href="https://www.woodcroft.org.uk/sycamore.html">SYCAMORE </a></p>
 <p><a href="https://www.woodcroft.org.uk/cherry.html">WILD CHERRY</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Wildlife</title>
-        <author>
-            <name>Woodcroft Wildspace Author Name</name>
-        </author>
-        <link href="https://sinwebdev.github.io/gh-pages/wildlife-on-the-site.html"/>
-        <id>https://sinwebdev.github.io/gh-pages/wildlife-on-the-site.html</id>
-            <category term="Plants &amp; Animals"/>
-
-        <updated>2024-06-17T20:05:59+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Note: Table copied from live site. Websites generally avoid big tables as they have accessibility and scaling problems. woodpecker - green AMPHIBIANS woodpecker - lesser spotted Smooth Newt wren Frog
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Note: Table copied from live site. Websites generally avoid big tables as they have accessibility and scaling problems. </p>
-<table style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td style="width: 19.2582%;" valign="top" width="135" height="971"><br><br></td>
-<td style="width: 73.0391%;" colspan="7" valign="top" width="565" height="971">
-<table border="5" width="565" cellspacing="5" cellpadding="5" align="center">
-<tbody>
-<tr>
-<td>BIRDS</td>
-<td>MAMMALS</td>
-<td>INSECTS etc.</td>
-</tr>
-<tr>
-<td width="147"><a href="https://www.woodcroft.org.uk/blackbird.html">blackbird</a></td>
-<td width="176"><a href="https://www.woodcroft.org.uk/fieldmouse.html">field mouse </a></td>
-<td width="192">Butterflies &amp; Moths</td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/blackcap.html">blackcap</a></td>
-<td><a href="https://www.woodcroft.org.uk/fox.html">fox</a></td>
-<td><a href="https://www.woodcroft.org.uk/Brimstone.html">Brimstone</a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/carrioncrow.html">carrion crow </a></td>
-<td><a href="https://www.woodcroft.org.uk/hedgehog.html">hedgehog</a></td>
-<td><a href="https://www.woodcroft.org.uk/essexskipper.html">Essex Skipper</a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/chaffinch.html">chaffinch</a></td>
-<td><a href="https://www.woodcroft.org.uk/squirrel.html">squirrel</a></td>
-<td><a href="https://www.woodcroft.org.uk/hollyblue.html">Holly Blue</a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/dovecollared.html">collared dove</a></td>
-<td> </td>
-<td><a href="https://www.woodcroft.org.uk/largewhite.html">Large White</a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/dunnock.html">dunnock</a></td>
-<td> </td>
-<td><a href="https://www.woodcroft.org.uk/meadowbrown.html">Meadow Brown</a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/greenfinch.html">greenfinch</a></td>
-<td> </td>
-<td><a href="https://www.woodcroft.org.uk/peacockbutterfly.html">Peacock Butterfly </a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/jay.html">jay</a></td>
-<td> </td>
-<td><a href="https://www.woodcroft.org.uk/redadmiral.html">Red Admiral</a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/gullblackh.html">gull blackheaded </a></td>
-<td> </td>
-<td><a href="https://www.woodcroft.org.uk/smallskipper.html">Small Skipper</a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/gullherring.html">gull - herring </a></td>
-<td> </td>
-<td>Other Insects</td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/magpie.html">magpie</a></td>
-<td> </td>
-<td><a href="https://www.woodcroft.org.uk/bee.html">Bees</a> - see photo of mating bumblebees</td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/pigeonferal.html">pigeon - feral</a></td>
-<td> </td>
-<td><a href="https://www.woodcroft.org.uk/bluetaildamsel.html">Blue Tail Damselfly</a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/pigeonwood.html">pigeon - wood </a></td>
-<td> </td>
-<td><a href="https://www.woodcroft.org.uk/commondarter.htm">Common Darter</a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/robin.html">robin</a></td>
-<td> </td>
-<td><a href="https://www.woodcroft.org.uk/emperordragonfly.html">Emperor Dragonfly</a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/sparrow.html">sparrow</a></td>
-<td> </td>
-<td><a href="https://www.woodcroft.org.uk/hawthornshieldbug.html">Hawthorn Shield Bug</a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/starling.html">starling</a></td>
-<td> </td>
-<td><a href="https://www.woodcroft.org.uk/knotgrass.html">Knotgrass </a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/titblue.html">tit - blue</a></td>
-<td> </td>
-<td><a href="https://www.woodcroft.org.uk/stagbeetle.html">Stag Beetle</a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/titgreat.html"></a><a href="https://www.woodcroft.org.uk/titgreat.html"></a><a href="https://www.woodcroft.org.uk/titcoal.html">tit - coal</a></td>
-<td> </td>
-<td><a href="https://www.woodcroft.org.uk/rosechafer.htm">Rose Chafer Beetle</a></td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/titlongt.html"></a><a href="https://www.woodcroft.org.uk/titlongt.html"></a><a href="https://www.woodcroft.org.uk/titgreat.html">tit - great</a></td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/titlongt.html">tit - longtailed</a></td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/woodpeckergs.html">woodpecker - great spotted</a></td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td>
-<p><a href="https://www.woodcroft.org.uk/woodpeckergreen.html">woodpecker - green</a></p>
-</td>
-<td>AMPHIBIANS</td>
-<td> </td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/woodpeckerls.html">woodpecker - lesser spotted</a></td>
-<td><a href="https://www.woodcroft.org.uk/smoothnewt.html">Smooth Newt</a></td>
-<td> </td>
-</tr>
-<tr>
-<td><a href="https://www.woodcroft.org.uk/wren.html">wren</a></td>
-<td><a href="https://www.woodcroft.org.uk/frog.html">Frog</a></td>
-<td> </td>
-</tr>
-</tbody>
-</table>
-</td>
-<td style="width: 7.56063%;" valign="top" width="53" height="971"> </td>
-</tr>
-</tbody>
-</table>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Example Featured Post without a Featured Image</title>
-        <author>
-            <name>Woodcroft Wildspace Author Name</name>
-        </author>
-        <link href="https://sinwebdev.github.io/gh-pages/wildstock-2024-sunday-may-26th-1-5-pm.html"/>
-        <id>https://sinwebdev.github.io/gh-pages/wildstock-2024-sunday-may-26th-1-5-pm.html</id>
-            <category term="News &amp; Events"/>
-
-        <updated>2024-05-01T18:10:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Wildstock is back! Yes, Wildstock '24 is gearing up for another fun-packed musical extravaganza. Bring a picnic and chill in the beautiful meadow in Woodcroft Wildspace. Enjoy the craft beers and wines courtesy of The Little Green Dragon while listening to a selection of local&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://sinwebdev.github.io/gh-pages/media/posts/7/Wildstock26May24_hero.jpg" alt="WILDSTOCK 2024  SUNDAY MAY 26th 1-5 pm" width="1039" height="543" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-xs.jpg 300w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-sm.jpg 480w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-md.jpg 768w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-lg.jpg 1024w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-xl.jpg 1360w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-2xl.jpg 1600w"></figure>
-<p> <br>Wildstock is back!  Yes, Wildstock '24 is gearing up for another fun-packed musical extravaganza. Bring a picnic and chill in the beautiful meadow in Woodcroft Wildspace. Enjoy the craft beers and wines courtesy of The Little Green Dragon while listening to a selection of local musicians throughout the afternoon.<br>Tickets available from https://buytickets.at/enfieldchaserotaryclub/1201210<br><br>All funds raised go to local charities - Little Sparks Enfield, Cooking Champions, and Woodcroft Wildspace - all fantastic local causes.<br><br>Location - Woodcroft Wildspace N21 3PT</p>
             ]]>
         </content>
     </entry>
