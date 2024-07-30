@@ -3,12 +3,34 @@
     <title>Woodcroft Wildspace</title>
     <link href="https://sinwebdev.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://sinwebdev.github.io/gh-pages" />
-    <updated>2024-07-17T15:03:08+01:00</updated>
+    <updated>2024-07-23T13:57:32+01:00</updated>
     <author>
         <name>Woodcroft Wildspace Author Name</name>
     </author>
     <id>https://sinwebdev.github.io/gh-pages</id>
 
+    <entry>
+        <title>Newsletter Sign Up (post example)</title>
+        <author>
+            <name>Woodcroft Wildspace Author Name</name>
+        </author>
+        <link href="https://sinwebdev.github.io/gh-pages/newsletter-sign-up-post-example.html"/>
+        <id>https://sinwebdev.github.io/gh-pages/newsletter-sign-up-post-example.html</id>
+
+        <updated>2024-07-23T13:57:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This page will be used to display an embedded form for Sender's sign up.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This page will be used to display an embedded form for Sender's sign up.</p>
+<p> </p>
+<div class="sender-form-field" style="text-align: left;" data-sender-form-id="lyx22x6sdgpj7eky5fp"> </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Petition Info</title>
         <author>
@@ -220,53 +242,6 @@
 <figure class="post__image" ><img loading="lazy" src="https://sinwebdev.github.io/gh-pages/media/posts/8/Woodcroft-Donation-QRcode.jpg" alt="WoodCroft Wildspace Donate QR Code" width="300" height="368" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-xs.jpg 300w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-sm.jpg 480w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-md.jpg 768w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-lg.jpg 1024w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-xl.jpg 1360w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-2xl.jpg 1600w">
 <figcaption >Caption</figcaption>
 </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Trees</title>
-        <author>
-            <name>Woodcroft Wildspace Author Name</name>
-        </author>
-        <link href="https://sinwebdev.github.io/gh-pages/trees.html"/>
-        <id>https://sinwebdev.github.io/gh-pages/trees.html</id>
-        <media:content url="https://sinwebdev.github.io/gh-pages/media/posts/6/editCapture2.PNG" medium="image" />
-            <category term="Plants &amp; Animals"/>
-
-        <updated>2024-06-17T20:09:15+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sinwebdev.github.io/gh-pages/media/posts/6/editCapture2.PNG" alt="" />
-                    Note: content copied from live site. ASH BIRCH (SELF-PLANTED) BLACKTHORN BUDDLEIA DOGWOOD (SELF-PLANTED) ELDER FLOWERING CRAB HAWTHORN HORSE CHESTNUT (SELF-PLANTED) HOLLY LABURNUM LEYLAND CYPRESS LIME - CAUCASIAN LIME - COMMON MONTEREY CYPRESS OAK - COMMON OAK - SESSILE POPLAR - HYBRID BLACK POPLAR - LOMBARDY&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://sinwebdev.github.io/gh-pages/media/posts/6/editCapture2.PNG" class="type:primaryImage" alt="" /></p>
-                <p>Note: content copied from live site. </p>
-<p><a href="https://www.woodcroft.org.uk/ash.html">ASH</a></p>
-<p><a href="https://www.woodcroft.org.uk/birch.html">BIRCH (SELF-PLANTED)</a></p>
-<p><a href="https://www.woodcroft.org.uk/blackthorn.html">BLACKTHORN</a></p>
-<p><a href="https://www.woodcroft.org.uk/buddleia.html">BUDDLEIA</a></p>
-<p><a href="https://www.woodcroft.org.uk/dogwood.html">DOGWOOD (SELF-PLANTED)</a></p>
-<p><a href="https://www.woodcroft.org.uk/elder.html">ELDER</a></p>
-<p><a href="https://www.woodcroft.org.uk/crab.html">FLOWERING CRAB </a></p>
-<p><a href="https://www.woodcroft.org.uk/hawthorn.html">HAWTHORN</a></p>
-<p><a href="https://www.woodcroft.org.uk/horsechestnut.html">HORSE CHESTNUT (SELF-PLANTED) </a></p>
-<p><a href="https://www.woodcroft.org.uk/holly.html">HOLLY </a></p>
-<p><a href="https://www.woodcroft.org.uk/laburnum.html">LABURNUM</a></p>
-<p><a href="https://www.woodcroft.org.uk/leylandii.html">LEYLAND CYPRESS</a></p>
-<p><a href="https://www.woodcroft.org.uk/limecaucasian.html">LIME - CAUCASIAN</a></p>
-<p><a href="https://www.woodcroft.org.uk/lime.html">LIME - COMMON</a></p>
-<p><a href="https://www.woodcroft.org.uk/monterey.html">MONTEREY CYPRESS</a></p>
-<p><a href="https://www.woodcroft.org.uk/oak.html">OAK - COMMON</a></p>
-<p><a href="https://www.woodcroft.org.uk/oak2.html">OAK - SESSILE</a></p>
-<p><a href="https://www.woodcroft.org.uk/poplar.html">POPLAR - HYBRID BLACK </a></p>
-<p><a href="https://www.woodcroft.org.uk/lombardy.html">POPLAR - LOMBARDY </a></p>
-<p><a href="https://www.woodcroft.org.uk/plum.html">PURPLE PLUM</a></p>
-<p><a href="https://www.woodcroft.org.uk/sorbus.html">ROWAN (SELF-PLANTED) </a></p>
-<p><a href="https://www.woodcroft.org.uk/sycamore.html">SYCAMORE </a></p>
-<p><a href="https://www.woodcroft.org.uk/cherry.html">WILD CHERRY</a></p>
             ]]>
         </content>
     </entry>

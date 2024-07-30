@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://sinwebdev.github.io/gh-pages/newsletter-sign-up-post-example.html",
+            "url": "https://sinwebdev.github.io/gh-pages/newsletter-sign-up-post-example.html",
+            "title": "Newsletter Sign Up (post example)",
+            "summary": "This page will be used to display an embedded form for Sender's sign up.",
+            "content_html": "<p>This page will be used to display an embedded form for Sender's sign up.</p>\n<p> </p>\n<div class=\"sender-form-field\" style=\"text-align: left;\" data-sender-form-id=\"lyx22x6sdgpj7eky5fp\"> </div>",
+            "author": {
+                "name": "Woodcroft Wildspace Author Name"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-23T13:57:32+01:00",
+            "date_modified": "2024-07-23T13:57:32+01:00"
+        },
+        {
             "id": "https://sinwebdev.github.io/gh-pages/petition-info.html",
             "url": "https://sinwebdev.github.io/gh-pages/petition-info.html",
             "title": "Petition Info",
@@ -144,22 +158,6 @@
             ],
             "date_published": "2024-06-19T10:07:47+01:00",
             "date_modified": "2024-06-21T00:17:40+01:00"
-        },
-        {
-            "id": "https://sinwebdev.github.io/gh-pages/trees.html",
-            "url": "https://sinwebdev.github.io/gh-pages/trees.html",
-            "title": "Trees",
-            "summary": "Note: content copied from live site. ASH BIRCH (SELF-PLANTED) BLACKTHORN BUDDLEIA DOGWOOD (SELF-PLANTED) ELDER FLOWERING CRAB HAWTHORN HORSE CHESTNUT (SELF-PLANTED) HOLLY LABURNUM LEYLAND CYPRESS LIME - CAUCASIAN LIME - COMMON MONTEREY CYPRESS OAK - COMMON OAK - SESSILE POPLAR - HYBRID BLACK POPLAR - LOMBARDY&hellip;",
-            "content_html": "<p>Note: content copied from live site. </p>\n<p><a href=\"https://www.woodcroft.org.uk/ash.html\">ASH</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/birch.html\">BIRCH (SELF-PLANTED)</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/blackthorn.html\">BLACKTHORN</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/buddleia.html\">BUDDLEIA</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/dogwood.html\">DOGWOOD (SELF-PLANTED)</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/elder.html\">ELDER</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/crab.html\">FLOWERING CRAB </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/hawthorn.html\">HAWTHORN</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/horsechestnut.html\">HORSE CHESTNUT (SELF-PLANTED) </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/holly.html\">HOLLY </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/laburnum.html\">LABURNUM</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/leylandii.html\">LEYLAND CYPRESS</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/limecaucasian.html\">LIME - CAUCASIAN</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/lime.html\">LIME - COMMON</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/monterey.html\">MONTEREY CYPRESS</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/oak.html\">OAK - COMMON</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/oak2.html\">OAK - SESSILE</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/poplar.html\">POPLAR - HYBRID BLACK </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/lombardy.html\">POPLAR - LOMBARDY </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/plum.html\">PURPLE PLUM</a></p>\n<p><a href=\"https://www.woodcroft.org.uk/sorbus.html\">ROWAN (SELF-PLANTED) </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/sycamore.html\">SYCAMORE </a></p>\n<p><a href=\"https://www.woodcroft.org.uk/cherry.html\">WILD CHERRY</a></p>",
-            "image": "https://sinwebdev.github.io/gh-pages/media/posts/6/editCapture2.PNG",
-            "author": {
-                "name": "Woodcroft Wildspace Author Name"
-            },
-            "tags": [
-                   "Plants &amp; Animals"
-            ],
-            "date_published": "2024-06-17T20:09:15+01:00",
-            "date_modified": "2024-06-20T22:00:55+01:00"
         }
     ]
 }
