@@ -3,12 +3,45 @@
     <title>Woodcroft Wildspace</title>
     <link href="https://sinwebdev.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://sinwebdev.github.io/gh-pages" />
-    <updated>2024-07-23T13:57:32+01:00</updated>
+    <updated>2024-07-31T16:37:38+01:00</updated>
     <author>
         <name>Woodcroft Wildspace Author Name</name>
     </author>
     <id>https://sinwebdev.github.io/gh-pages</id>
 
+    <entry>
+        <title>Privacy Policy</title>
+        <author>
+            <name>Woodcroft Wildspace Author Name</name>
+        </author>
+        <link href="https://sinwebdev.github.io/gh-pages/privacy-policy.html"/>
+        <id>https://sinwebdev.github.io/gh-pages/privacy-policy.html</id>
+
+        <updated>2024-07-31T16:37:38+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Privacy Policy What information is collected Where information is collected from Why information is collected How information is collected (including through cookies and other tracking technologies) Who information is shared with or sold to What rights users have over their data The site’s contact details
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Privacy Policy</p>
+<div class="list">
+<div class="list">
+<ul>
+<li><strong>What</strong> information is collected</li>
+<li><strong>Where</strong> information is collected from</li>
+<li><strong>Why</strong> information is collected</li>
+<li><strong>How</strong> information is collected (including through cookies and other tracking technologies)</li>
+<li><strong>Who</strong> information is shared with or sold to</li>
+<li>What <strong>rights</strong> users have over their data</li>
+<li>The site’s <strong>contact details</strong></li>
+</ul>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Newsletter Sign Up (post example)</title>
         <author>
@@ -215,33 +248,6 @@
             <![CDATA[
                     <p><img src="https://sinwebdev.github.io/gh-pages/media/posts/9/editCapture1.PNG" class="type:primaryImage" alt="" /></p>
                 <p><strong>Example of an Post with a Featured Image. Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Donate</title>
-        <author>
-            <name>Woodcroft Wildspace Author Name</name>
-        </author>
-        <link href="https://sinwebdev.github.io/gh-pages/donate.html"/>
-        <id>https://sinwebdev.github.io/gh-pages/donate.html</id>
-
-        <updated>2024-06-19T10:07:47+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Please scan QR code below or click Donate to make a donation. All donations to Woodcroft Wildspace very much appreciated. SumUp does not pass on any personal details to us about your donation, only the code that it provides to you on completing the transaction.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Please scan QR code below or click <a href="https://pay.sumup.io/b2c/QI6KFX8T?utm_campaign=pdf&amp;utm_medium=print&amp;utm_source=qr" target="_blank" rel="noopener noreferrer"> Donate</a> to make a donation.<br><br>All donations to Woodcroft Wildspace very much appreciated.</p>
-<p>SumUp does not pass on any personal details to us about your donation, only the code that it provides to you on completing the transaction.</p>
-<p>It would be helpful for us to be able to relate donations to donors, for example when making a booking, so if you could please email the code to <a href="mailto:enquiries@woodcroft.org.uk"> enquiries@woodcroft.org.uk</a> with a short note about your kind donation that would be helpful.</p>
-<p>If you would like to remain anonymous that is of course fine, thank you for your donation.</p>
-<p>Either way, many thanks for your donation. We will put it to good use in maintaining the Wildspace.</p>
-<figure class="post__image" ><img loading="lazy" src="https://sinwebdev.github.io/gh-pages/media/posts/8/Woodcroft-Donation-QRcode.jpg" alt="WoodCroft Wildspace Donate QR Code" width="300" height="368" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-xs.jpg 300w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-sm.jpg 480w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-md.jpg 768w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-lg.jpg 1024w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-xl.jpg 1360w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-2xl.jpg 1600w">
-<figcaption >Caption</figcaption>
-</figure>
             ]]>
         </content>
     </entry>

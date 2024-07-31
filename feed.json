@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://sinwebdev.github.io/gh-pages/privacy-policy.html",
+            "url": "https://sinwebdev.github.io/gh-pages/privacy-policy.html",
+            "title": "Privacy Policy",
+            "summary": "Privacy Policy What information is collected Where information is collected from Why information is collected How information is collected (including through cookies and other tracking technologies) Who information is shared with or sold to What rights users have over their data The site’s contact details",
+            "content_html": "<p>Privacy Policy</p>\n<div class=\"list\">\n<div class=\"list\">\n<ul>\n<li><strong>What</strong> information is collected</li>\n<li><strong>Where</strong> information is collected from</li>\n<li><strong>Why</strong> information is collected</li>\n<li><strong>How</strong> information is collected (including through cookies and other tracking technologies)</li>\n<li><strong>Who</strong> information is shared with or sold to</li>\n<li>What <strong>rights</strong> users have over their data</li>\n<li>The site’s <strong>contact details</strong></li>\n</ul>\n</div>\n</div>",
+            "author": {
+                "name": "Woodcroft Wildspace Author Name"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-31T16:37:38+01:00",
+            "date_modified": "2024-07-31T16:37:38+01:00"
+        },
+        {
             "id": "https://sinwebdev.github.io/gh-pages/newsletter-sign-up-post-example.html",
             "url": "https://sinwebdev.github.io/gh-pages/newsletter-sign-up-post-example.html",
             "title": "Newsletter Sign Up (post example)",
@@ -144,20 +158,6 @@
             ],
             "date_published": "2024-06-20T00:28:25+01:00",
             "date_modified": "2024-06-20T22:32:42+01:00"
-        },
-        {
-            "id": "https://sinwebdev.github.io/gh-pages/donate.html",
-            "url": "https://sinwebdev.github.io/gh-pages/donate.html",
-            "title": "Donate",
-            "summary": "Please scan QR code below or click Donate to make a donation. All donations to Woodcroft Wildspace very much appreciated. SumUp does not pass on any personal details to us about your donation, only the code that it provides to you on completing the transaction.",
-            "content_html": "<p>Please scan QR code below or click <a href=\"https://pay.sumup.io/b2c/QI6KFX8T?utm_campaign=pdf&amp;utm_medium=print&amp;utm_source=qr\" target=\"_blank\" rel=\"noopener noreferrer\"> Donate</a> to make a donation.<br><br>All donations to Woodcroft Wildspace very much appreciated.</p>\n<p>SumUp does not pass on any personal details to us about your donation, only the code that it provides to you on completing the transaction.</p>\n<p>It would be helpful for us to be able to relate donations to donors, for example when making a booking, so if you could please email the code to <a href=\"mailto:enquiries@woodcroft.org.uk\"> enquiries@woodcroft.org.uk</a> with a short note about your kind donation that would be helpful.</p>\n<p>If you would like to remain anonymous that is of course fine, thank you for your donation.</p>\n<p>Either way, many thanks for your donation. We will put it to good use in maintaining the Wildspace.</p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://sinwebdev.github.io/gh-pages/media/posts/8/Woodcroft-Donation-QRcode.jpg\" alt=\"WoodCroft Wildspace Donate QR Code\" width=\"300\" height=\"368\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-xs.jpg 300w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-sm.jpg 480w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-md.jpg 768w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-lg.jpg 1024w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-xl.jpg 1360w ,https://sinwebdev.github.io/gh-pages/media/posts/8/responsive/Woodcroft-Donation-QRcode-2xl.jpg 1600w\">\n<figcaption >Caption</figcaption>\n</figure>",
-            "author": {
-                "name": "Woodcroft Wildspace Author Name"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-06-19T10:07:47+01:00",
-            "date_modified": "2024-06-21T00:17:40+01:00"
         }
     ]
 }
