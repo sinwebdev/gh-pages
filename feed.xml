@@ -5,20 +5,20 @@
     <link href="https://sinwebdev.github.io/gh-pages" />
     <updated>2024-07-31T16:37:38+01:00</updated>
     <author>
-        <name>Woodcroft Wildspace Author Name</name>
+        <name>User (Admin)</name>
     </author>
     <id>https://sinwebdev.github.io/gh-pages</id>
 
     <entry>
         <title>Privacy Policy</title>
         <author>
-            <name>Woodcroft Wildspace Author Name</name>
+            <name>User (Admin)</name>
         </author>
         <link href="https://sinwebdev.github.io/gh-pages/privacy-policy.html"/>
         <id>https://sinwebdev.github.io/gh-pages/privacy-policy.html</id>
 
         <updated>2024-07-31T16:37:38+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Privacy Policy What information is collected Where information is collected from Why information is collected How information is collected (including through cookies and other tracking technologies) Who information is shared with or sold to What rights users have over their data The site’s contact details
                 ]]>
@@ -45,13 +45,13 @@
     <entry>
         <title>Newsletter Sign Up (post example)</title>
         <author>
-            <name>Woodcroft Wildspace Author Name</name>
+            <name>User (Admin)</name>
         </author>
         <link href="https://sinwebdev.github.io/gh-pages/newsletter-sign-up-post-example.html"/>
         <id>https://sinwebdev.github.io/gh-pages/newsletter-sign-up-post-example.html</id>
 
         <updated>2024-07-23T13:57:32+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     This page will be used to display an embedded form for Sender's sign up.
                 ]]>
@@ -67,14 +67,14 @@
     <entry>
         <title>Petition Info</title>
         <author>
-            <name>Woodcroft Wildspace Author Name</name>
+            <name>User (Admin)</name>
         </author>
         <link href="https://sinwebdev.github.io/gh-pages/petition-info.html"/>
         <id>https://sinwebdev.github.io/gh-pages/petition-info.html</id>
             <category term="News &amp; Events"/>
 
         <updated>2024-07-17T15:03:08+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Details here link
                 ]]>
@@ -89,7 +89,7 @@
     <entry>
         <title>Woodcroft 2025</title>
         <author>
-            <name>Woodcroft Wildspace Author Name</name>
+            <name>User (Admin)</name>
         </author>
         <link href="https://sinwebdev.github.io/gh-pages/woodcroft-2025.html"/>
         <id>https://sinwebdev.github.io/gh-pages/woodcroft-2025.html</id>
@@ -97,7 +97,7 @@
             <category term="News &amp; Events"/>
 
         <updated>2024-07-17T14:49:36+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://sinwebdev.github.io/gh-pages/media/posts/15/Wildstock26May24_hero.jpg" alt="" />
                     Woodcroft 2025 info here
@@ -113,14 +113,14 @@
     <entry>
         <title>Forest</title>
         <author>
-            <name>Woodcroft Wildspace Author Name</name>
+            <name>User (Admin)</name>
         </author>
         <link href="https://sinwebdev.github.io/gh-pages/forest.html"/>
         <id>https://sinwebdev.github.io/gh-pages/forest.html</id>
             <category term="Plants &amp; Animals"/>
 
         <updated>2024-07-17T14:35:41+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Some content here.
                 ]]>
@@ -135,7 +135,7 @@
     <entry>
         <title>Schools</title>
         <author>
-            <name>Woodcroft Wildspace Author Name</name>
+            <name>User (Admin)</name>
         </author>
         <link href="https://sinwebdev.github.io/gh-pages/schools.html"/>
         <id>https://sinwebdev.github.io/gh-pages/schools.html</id>
@@ -143,7 +143,7 @@
             <category term="Visit"/>
 
         <updated>2024-06-20T22:12:30+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://sinwebdev.github.io/gh-pages/media/posts/13/schoolsandgroups_clip_image006.jpg" alt="" />
                     The Education Team would love to hear from schools and groups who would be interested in visiting Woodcroft Wildspace for an interesting and enjoyable educational experience. Contact the Woodcroft Education Team by email: education@woodcroft.org.uk or phone 0203 642 1543 and leave us a message. We&hellip;
@@ -163,7 +163,7 @@
     <entry>
         <title>Site Plan</title>
         <author>
-            <name>Woodcroft Wildspace Author Name</name>
+            <name>User (Admin)</name>
         </author>
         <link href="https://sinwebdev.github.io/gh-pages/site-plan.html"/>
         <id>https://sinwebdev.github.io/gh-pages/site-plan.html</id>
@@ -178,30 +178,9 @@
         </content>
     </entry>
     <entry>
-        <title>Sponsors</title>
-        <author>
-            <name>Woodcroft Wildspace Author Name</name>
-        </author>
-        <link href="https://sinwebdev.github.io/gh-pages/sponsors.html"/>
-        <id>https://sinwebdev.github.io/gh-pages/sponsors.html</id>
-
-        <updated>2024-06-20T19:59:11+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Our grateful thanks for the following people who have given their support GENERAL SPONSORS . Enfield Council for their help and support and permission to use the ground. Enfield Parks Dept. for provision of wood chippings for the paths BUSINESS SPONSORS The following businesses have&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Our grateful thanks for the following people who have given their support<br>GENERAL SPONSORS .<br><a href="https://www.enfield.gov.uk/" target="_blank" rel="noopener noreferrer">Enfield Council</a> for their help and support and permission to use the ground.<br><a href="http://www.enfield.gov.uk/461/index461.htm" target="_blank" rel="noopener noreferrer">Enfield Parks Dept.</a> for provision of wood chippings for the paths<br> <br>BUSINESS SPONSORS<br>The following businesses have kindly donated prizes for our fund raising events or supplied goods and services free of charge, or sent teams of volunteers to work on the site.<br><a href="http://www.ricoh-europe.com/" target="_blank" rel="noopener noreferrer">RICOH</a></p>
-<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Example Featured post with a Featured Image</title>
         <author>
-            <name>Woodcroft Wildspace Author Name</name>
+            <name>User (Admin)</name>
         </author>
         <link href="https://sinwebdev.github.io/gh-pages/example-featured-post-with-a-featured-image.html"/>
         <id>https://sinwebdev.github.io/gh-pages/example-featured-post-with-a-featured-image.html</id>
@@ -209,7 +188,7 @@
             <category term="News &amp; Events"/>
 
         <updated>2024-06-20T19:49:51+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://sinwebdev.github.io/gh-pages/media/posts/10/283315628_5173526306074914_627125330721654055_n.jpg" alt="" />
                     Example Featured post with a Featured Image. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to&hellip;
@@ -230,7 +209,7 @@
     <entry>
         <title>Example normal post with a Featured Image</title>
         <author>
-            <name>Woodcroft Wildspace Author Name</name>
+            <name>User (Admin)</name>
         </author>
         <link href="https://sinwebdev.github.io/gh-pages/what-is-lorem-ipsum.html"/>
         <id>https://sinwebdev.github.io/gh-pages/what-is-lorem-ipsum.html</id>
@@ -238,7 +217,7 @@
             <category term="News &amp; Events"/>
 
         <updated>2024-06-20T00:28:25+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://sinwebdev.github.io/gh-pages/media/posts/9/editCapture1.PNG" alt="" />
                     Example of an Post with a Featured Image. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it&hellip;
@@ -248,6 +227,28 @@
             <![CDATA[
                     <p><img src="https://sinwebdev.github.io/gh-pages/media/posts/9/editCapture1.PNG" class="type:primaryImage" alt="" /></p>
                 <p><strong>Example of an Post with a Featured Image. Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Example Featured Post without a Featured Image</title>
+        <author>
+            <name>User (Admin)</name>
+        </author>
+        <link href="https://sinwebdev.github.io/gh-pages/wildstock-2024-sunday-may-26th-1-5-pm.html"/>
+        <id>https://sinwebdev.github.io/gh-pages/wildstock-2024-sunday-may-26th-1-5-pm.html</id>
+            <category term="News &amp; Events"/>
+
+        <updated>2024-05-01T18:10:00+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Wildstock is back! Yes, Wildstock '24 is gearing up for another fun-packed musical extravaganza. Bring a picnic and chill in the beautiful meadow in Woodcroft Wildspace. Enjoy the craft beers and wines courtesy of The Little Green Dragon while listening to a selection of local&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://sinwebdev.github.io/gh-pages/media/posts/7/Wildstock26May24_hero.jpg" alt="WILDSTOCK 2024  SUNDAY MAY 26th 1-5 pm" width="1039" height="543" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-xs.jpg 300w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-sm.jpg 480w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-md.jpg 768w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-lg.jpg 1024w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-xl.jpg 1360w ,https://sinwebdev.github.io/gh-pages/media/posts/7/responsive/Wildstock26May24_hero-2xl.jpg 1600w"></figure>
+<p> <br>Wildstock is back!  Yes, Wildstock '24 is gearing up for another fun-packed musical extravaganza. Bring a picnic and chill in the beautiful meadow in Woodcroft Wildspace. Enjoy the craft beers and wines courtesy of The Little Green Dragon while listening to a selection of local musicians throughout the afternoon.<br>Tickets available from https://buytickets.at/enfieldchaserotaryclub/1201210<br><br>All funds raised go to local charities - Little Sparks Enfield, Cooking Champions, and Woodcroft Wildspace - all fantastic local causes.<br><br>Location - Woodcroft Wildspace N21 3PT</p>
             ]]>
         </content>
     </entry>
